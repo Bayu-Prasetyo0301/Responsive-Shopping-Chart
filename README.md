@@ -8,8 +8,5 @@
 
 ![image](https://github.com/user-attachments/assets/a4f042e6-3577-4bc7-8f7f-b362591fc5ba)
 
-# Add Shopping Chart
 ![image](https://github.com/user-attachments/assets/685a8f5f-3c80-444a-9bd0-7ad75bc0edab)
-
-![image](https://github.com/user-attachments/assets/59aea7ac-40c0-45cb-b3a5-bfdc9e92d453)
 
